@@ -1,2 +1,2 @@
 # Introduction-to-Git-and-GitHub-by-Google
-Introduction to Git and GitHub by Google
+Course: Introduction to Git and GitHub by Google
